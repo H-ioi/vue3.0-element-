@@ -1,4 +1,8 @@
-# vue-pc
+# vue3.0 element 管理后台模板
+
+![输入图片说明](http://gcimage.oss-cn-shenzhen.aliyuncs.com/img/1608280504(1).jpg "在这里输入图片标题")
+![输入图片说明](http://gcimage.oss-cn-shenzhen.aliyuncs.com/img/1608280492(1).jpg "在这里输入图片标题")
+![输入图片说明](http://gcimage.oss-cn-shenzhen.aliyuncs.com/img/1608280504(1).jpg "在这里输入图片标题")
 
 ## Project setup
 ```
@@ -25,5 +29,3 @@ npm run test:unit
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
