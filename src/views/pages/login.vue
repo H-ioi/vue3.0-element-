@@ -26,7 +26,7 @@
           </el-form>
         </div>
         <div class="login-footer">
-          <p><a href="JavaScript:;" target="_blank">模板平台</a>2019 © Gy.io</p>
+          <p><a href="JavaScript:;" target="_blank">模板平台</a>2020 © Gy.io</p>
         </div>
       </main>
     </div>
